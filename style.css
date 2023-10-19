@@ -1,0 +1,197 @@
+*{
+    margin:0px;
+
+    padding:0px;
+
+}
+
+.wrapper{
+
+    height:100vh;
+
+    overflow-x:hidden;
+
+    overflow-y:auto;   
+
+}
+
+.container{    
+
+    display:flex;
+
+    justify-content: center;
+
+    align-items:center ;
+
+    flex-direction:column;
+
+}
+
+.header{
+
+    background-color: rgb(77, 39, 4);
+
+    width:100vw;
+
+    padding-top: 10px;
+
+    padding-bottom: 10px;
+
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+
+}
+
+#name{
+
+    color:white;
+
+}
+
+.main1{
+
+    background-color: rgb(43, 2, 6);
+
+    height:100vh;
+
+    width:100vw;    
+
+}
+
+.m1{
+
+    transform:translate(100px,200px);
+
+    color:white;
+
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+
+}
+
+span{
+
+    color:rgb(129, 27, 219);
+    
+}
+
+#dp{
+
+    height:500px;
+
+    width:500px;
+
+    transform:translate(800px,-100px)
+
+}
+
+.main2{ 
+
+    background-color: rgb(43, 2, 6);
+
+    height:330vh;
+
+    width:100vw;
+
+}
+
+.m2{
+
+    color:white; 
+
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+
+}
+
+.txt{
+
+    padding-top: 70px;
+
+    padding-bottom: 200px;
+
+    padding-left: 15px;
+
+    padding-right:15px ;
+
+    color:white; 
+
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+
+}
+
+.hsize{
+
+    color:white;
+
+    font-size: xx-large;
+
+    font-weight: 200px;
+
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+
+    padding-left: 200px;
+
+    padding-top: 200px;
+
+}
+
+.range{
+
+    transform:translate(200px,80px);
+
+    width: 80vw;
+
+}
+
+.footer{
+
+    background-color:rgb(43, 2, 6);
+
+    height:100vh;
+
+    width:100vw;
+
+}
+
+#contact{
+
+    color:white;    
+
+}
+
+#img4{
+
+    height: 80px;
+
+    width: 110px;
+
+    padding-left: 260px;
+
+    padding-top: 200px;
+
+}
+
+#img5{
+
+    height: 100px;
+
+    width: 100px;
+
+    padding-left: 260px;
+
+    padding-top: 200px;    
+
+}
+
+#img6{
+
+    height: 100px;
+
+    width: 100px;
+
+    padding-left: 260px;
+
+    padding-top: 200px;
+
+}
+
+
+
